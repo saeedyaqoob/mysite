@@ -190,20 +190,20 @@ hr {
   text-decoration: none;
 }
 
-#more1 {
+more1 {
   display: none;
 }
 
-#myBtn1 {
+myBtn1 {
     position: absolute;
     right: 320px;
 }
 
-#more2 {
+more2 {
   display: none;
 }
 
-#myBtn2 {
+myBtn2 {
     position: absolute;
     right: 320px;
 }
