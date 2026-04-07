@@ -1,31 +1,31 @@
 function myFunction1() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+  var dots1 = document.getElementById("dots");
+  var moreText1 = document.getElementById("more");
+  var btnText1 = document.getElementById("myBtn");
 
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerText = "Read more";
-    moreText.style.display = "none";
+  if (dots1.style.display === "none") {
+    dots1.style.display = "inline";
+    btnText1.innerText = "Read more";
+    moreText1.style.display = "none";
   } else {
-    dots.style.display = "none";
-    btnText.innerText = "Read less";
-    moreText.style.display = "inline";
+    dots1.style.display = "none";
+    btnText1.innerText = "Read less";
+    moreText1.style.display = "inline";
   }
 }
 
 function myFunction2() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+  var dots2 = document.getElementById("dots");
+  var moreText2 = document.getElementById("more");
+  var btnText2 = document.getElementById("myBtn");
 
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerText = "Read more";
-    moreText.style.display = "none";
+  if (dots2.style.display === "none") {
+    dots2.style.display = "inline";
+    btnText2.innerText = "Read more";
+    moreText2.style.display = "none";
   } else {
-    dots.style.display = "none";
-    btnText.innerText = "Read less";
-    moreText.style.display = "inline";
+    dots2.style.display = "none";
+    btnText2.innerText = "Read less";
+    moreText2.style.display = "inline";
   }
 }
