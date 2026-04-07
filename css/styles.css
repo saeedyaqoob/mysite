@@ -203,6 +203,11 @@ hr {
   display: none;
 }
 
+.more-content {
+  display: none;
+}
+
+
 #myBtn2 {
     position: absolute;
     right: 320px;
